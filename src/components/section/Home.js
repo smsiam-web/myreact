@@ -11,7 +11,7 @@ const Home = () => {
             i am <span> siam chowdhury</span>
           </h3>
           <p className="info">
-            i am a full stack <span>react.</span>JS web developer
+            i am a front-end <span>react.</span>JS developer
           </p>
           <p className="text">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
