@@ -1,6 +1,5 @@
 {
   "name": "myreactweb",
-  "homepage": "https://smsiam-web.github.io/reactweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
